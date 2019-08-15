@@ -1,7 +1,8 @@
 Clasificacion geografica M49 Naciones Unidas
 Fuente: https://unstats.un.org/unsd/methodology/m49/
-Geographic Regions
-The list of geographic regions presents the composition of geographical regions used by the Statistics Division in its publications and databases. Each country or area is shown in one region only. These geographic regions are based on continental regions; which are further subdivided into sub-regions and intermediary regions drawn as to obtain greater homogeneity in sizes of population, demographic circumstances and accuracy of demographic statistics.
+
+Regiones geográficas
+La lista de regiones geográficas presenta la composición de las regiones geográficas utilizadas por la División de Estadística en sus publicaciones y bases de datos. Cada país o área se muestra solo en una región. Estas regiones geográficas se basan en regiones continentales; que se subdividen en subregiones y regiones intermedias dibujadas para obtener una mayor homogeneidad en el tamaño de la población, las circunstancias demográficas y la precisión de las estadísticas demográficas.
 
 Códigos Uniformes de Países o Áreas para Usos Estadísticos
 Standard Country or Area Codes for Statistical Use (M 49)
@@ -47,7 +48,7 @@ desarrollo alcanzada por un país o región en particular.
 la clasificación:
 Custodio: División de Estadística de las Naciones Unidas: http://www.un.org/es/development/progareas/statistics.shtml
 
-Countries or areas / geographical regions
-The list of countries or areas contains the names of countries or areas in alphabetical order, their three-digit numerical codes used for statistical processing purposes by the Statistics Division of the United Nations Secretariat, and their three-digit alphabetical codes assigned by the International Organization for Standardization (ISO).1 In general, this list of countries or areas includes those countries or areas for which statistical data are compiled by the Statistics Division of the United Nations Secretariat.
+Países o áreas / regiones geográficas
+La lista de países o áreas contiene los nombres de países o áreas en orden alfabético, sus códigos numéricos de tres dígitos utilizados para fines de procesamiento estadístico por la División de Estadística de la Secretaría de las Naciones Unidas y sus códigos alfabéticos de tres dígitos asignados por la Organización Internacional para la Normalización (ISO) .1 En general, esta lista de países o áreas incluye aquellos países o áreas para los cuales la División de Estadística de la Secretaría de las Naciones Unidas compila los datos estadísticos.
 
-The names of countries or areas refer to their short form used in day-to-day operations of the United Nations and not necessarily to their official name as used in formal documents. These names are based on the United Nations Terminology Database (UNTERM).2 The designations employed and the presentation of material at this site do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+Los nombres de países o áreas se refieren a su forma abreviada utilizada en las operaciones cotidianas de las Naciones Unidas y no necesariamente a su nombre oficial tal como se utiliza en los documentos formales. Estos nombres se basan en la Base de datos de terminología de las Naciones Unidas (UNTERM) .2 Las designaciones empleadas y la presentación de material en este sitio no implican la expresión de ninguna opinión por parte de la Secretaría de las Naciones Unidas sobre el estado legal de cualquier país, territorio, ciudad o área o de sus autoridades, o en relación con la delimitación de sus fronteras o límites.
