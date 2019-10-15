@@ -1,4 +1,3 @@
-![] (http://i.imgur.com/88FpuUJ.png) 
 # Venezuela-JSON
 
 Creemos que las bases de datos No-SQL son geniales, por ello queremos ofrecele a los desarrolladores venezolanos un recurso útil para sus proyectos. Básicamente, **Venezuela-JSON** es un documento en formato [JSON] (http://es.wikipedia.org/wiki/JSON) que agrupa todos los estados, ciudades, municipios y parroquias de Venezuela.
