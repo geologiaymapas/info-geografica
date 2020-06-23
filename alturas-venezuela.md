@@ -2,29 +2,32 @@ La dirección de cartografía Nacional, con el propósito de mantener informados
 
 Esta Dirección ampliará gustosamente cualquier otra información al respecto.
 
-ALTURA DE POBLACIONES DE VENEZUELA
-(Obtenidas por Nivelación Geodésica)
- 
-POBLACIÓN 
-Designación del B.M.	COTA
-(Metros)	UBICACIÓN
+### ALTURA DE POBLACIONES DE VENEZUELA (Obtenidas por Nivelación Geodésica)
 
-                                               -A-
- 
-ABEJALES (Estado Táchira. Distrito Uribante)
-1F-95	180,95	Plaza.
- 
-ACARIGUA (Estado Portuguesa. Distrito Páez)
-2F-71C	196,36	Redoma 13 de Junio.
-2F-71D	189,47	Casa del Niño.
-F-72RC	189,86	Plaza Bolívar.
-FB-R-1	221,87	Aeropuerto.
-FB-K-1	224,62	Aeropuerto.
-FB-KR-2	225,45	Aeropuerto.
- 
-AGUA BLANCA (Estado Portuguesa. Distrito Araure)
-2F-66	175,66	Plaza Bolívar.
-2F-67	175,32	Puente Sobre río Sarare.
+|POBLACIÓN|
+|---|
+|Designación del B.M.|COTA (Metros)|UBICACIÓN|
+
+
+##-A-
+
+|ABEJALES (Estado Táchira. Distrito Uribante)|
+|---|
+|1F-95|180,95|Plaza.|
+
+|ACARIGUA (Estado Portuguesa. Distrito Páez)|
+|---|
+|2F-71C|196,36|Redoma 13 de Junio.|
+|2F-71D|189,47|Casa del Niño.|
+|F-72RC|189,86|Plaza Bolívar.|
+|FB-R-1|221,87|Aeropuerto.|
+|FB-K-1|224,62|Aeropuerto.|
+|FB-KR-2|225,45|Aeropuerto.|
+
+|AGUA BLANCA (Estado Portuguesa. Distrito Araure)|
+|---|
+|2F-66|175,66|Plaza Bolívar.|
+|2F-67|175,32|Puente Sobre río Sarare.|
  
 ACHAGUAS (Estado Apure. Distrito Achaguas)
 AB-61	55,84	Grupo Escolar
@@ -62,10 +65,12 @@ ALTARIGUA      (Estado Lara. Distrito Torres)
 VVLZ-35	478,48	Medicatura Rural
 VVLZ-36	475,13	Plaza Bolívar.
 VVLZ-37	480,81	Tanque de agua viejo.
- 
-                                               -B-
-BACHAQUERO (Estado Zulia, Distrito Bolívar)
-VP-45	1,50	Grupo Escolar “Dewey”
+
+##-B-
+
+|BACHAQUERO (Estado Zulia, Distrito Bolívar)|
+|--|
+|VP-45|1,50|Grupo Escolar “Dewey”|
  
 BAILADORES (Estado Mérida. Distrito Rivas Dávila)
 A-355	1.718,75	Plaza Bolívar.
@@ -222,10 +227,12 @@ APB-36                                    66,31                           Escuel
  
 BURERE (Estado Lara. Distrito Torres)
 LF-9                                         422,48                          Escuela Federal Bracho.
- 
-CABIMAS (Estado Zulia. Distrito Bolívar)
-VP-72                                      3,51                                         Plaza Bolívar
- 
+
+##-C-
+|CABIMAS (Estado Zulia. Distrito Bolívar)|
+|--|
+|VP-72|3,51|Plaza Bolívar|
+
 CABRUTA (Estado Guárico. Distrito Infante)
 RM-IS-48                                  38,88                                       Plaza Bolívar.
  
@@ -552,13 +559,13 @@ CHAGUARAMAS (Estado Guárico. Distrito Infante)
 E-112	176,63	Plaza Bolívar
 4CAP-A	182,80	Cementerio
 4CAP-B	180,74	Grupo Escolar Chaguaramas
- 
+
 CHAMARIAPA (Estado Sucre. Distrito Rivero)
 CCM-38	34,84	Iglesia
- 
+
 CHARALLAVE (Estado Miranda. Distrito Urdaneta)
 CSJ-52B	312,74	Plaza Bolívar
- 
+
 CHICHIRIVICHE (Estado Falcón. Distrito Silva)
 VNEM-104A	2,12	Central eléctrica compañía cemento Coro
 VNEM-104B	1,95	Empaque Compañía Cemento “Coro”
@@ -566,10 +573,10 @@ VNEM-104C	1,41	Plaza Bolívar
 VNEM-104D	1,32	Grupo Escolar “De Lima”
 CIA. CORO-A	1,87	Planta de Agua. Compañía  Cemento “Coro”
 CIA. CORO-B	0,75	Zona residencial Compañía Cemento “Coro”
- 
+
 CHIMPIRE (Estado Falcón. Distrito Zamora)
 NEM-60	203,52	Concentración Chimpire
- 
+
 CHIVACOA (Estado Yaracuy. Distrito Bruzual)
 MB-35	316,72	Estación del ferrocarril
 MB-35A	303,61	Plaza Bolívar
@@ -578,24 +585,26 @@ MB-35B	309,60	Hospital
 CHURUGUARA (Estado Falcón. Distrito Federación)
 CB-55	935-96	Plaza Bolívar
 
- 
-                                               -D-
- 
-DABAJURO (Estado Falcón. Distrito Buchivacoa)
-CM-60	88,21	Plaza Bolívar
-LF-63	79,19	Destacamento de la Guardia Nacional
-LF-64	85,83	Grupo Escolar “G. de León”
-LF-65	89,00	Iglesia
-AD-1	79,53	Aeropuerto
-AD-2	77,06	Aeropuerto
-AD-3	74,17	Aeropuerto
- 
-DOLORES (Estado Barinas. Distrito Rojas)
-ABFB-DA	96,47	Iglesia
-ABFB-DB	96,72	Prefectura
-ABFB-D2	96,56	Plaza Bolívar
- 
-                                               -E-
+##-D-
+
+|DABAJURO (Estado Falcón. Distrito Buchivacoa)|
+|---|
+|CM-60|88,21|Plaza Bolívar|
+|LF-63|79,19|Destacamento de la Guardia Nacional|
+|LF-64|85,83|Grupo Escolar “G. de León”|
+|LF-65|89,00|Iglesia|
+|AD-1|79,53|Aeropuerto|
+|AD-2|77,06|Aeropuerto|
+|AD-3|74,17|Aeropuerto|
+
+
+|DOLORES (Estado Barinas. Distrito Rojas)|
+|--|
+|ABFB-DA|96,47|Iglesia|
+|ABFB-DB|96,72|Prefectura|
+|ABFB-D2|96,56|Plaza Bolívar|
+
+##-E-
 EJIDO (Estado Mérida. Distrito Campo Elías)
 A-316	1.140,20	Plaza Briceño
  
@@ -750,14 +759,16 @@ MZT-42                                    6,03                 Bomba de gasolina
 MZT-43                                    6,84                 Plaza Bolívar
 MZT-44                                    6,34                 Escuela “Dr. Roncayolo”
 MZT-44Bis-1                             5,81                 Guardia Nacional
- 
+
+##-F-
 FLOR AMARILLA (Estado Carabobo. Distrito Valencia)
 3VC-4B                                    432,49              Plaza Bolívar
 3VC-4C                                    431,80              Tanque agua acueducto
  
 FLOR DE PATRIA (Estado Trujillo. Distrito Trujillo)
 A-236                                       431,39              Entrada al pueblo flor de Patría
- 
+
+##-G-
 GOAJIRO (Estado Falcón. Distrito Mauroa)
 LF-40                                       267,21              Capilla
 LF-40A                                     266,24              Pluviómetro
@@ -856,7 +867,7 @@ GURI (Estado Bolívar. Distrito Piar)
 PCPG-51                                 190,34              Iglesia Buena Ventura
 PCPG-51A                               189,98              Escuela
  
-                                   -H-
+##-H-
 HACIENDITA (Estado Táchira Distrito Bolívar)
 PAN-196                                  344,87              Iglesia
  
@@ -873,7 +884,8 @@ VNEM-305                            1,42                 Lago San Andrés (Ciuda
 HUEQUITO (Estado Falcón. Distrito Zamora)
 NEM-66                                 8,11                 Puente sobre río Hueque
 NEM-67                                 17,69               Iglesia
- 
+
+##-I-
 INDEPENDENCIA (CAPACHO VIEJO (Estado Táchira. Distrito Capacho)
 PAN-216                                1.269,66                     Plaza Bolívar
  
@@ -888,7 +900,8 @@ ID                                           15,19               Isla frente a C
  
 JOSÉ FÉLIX RIVAS (UVERAL). (Estado Guárico. Distrito Rivas)
 CAP-53                                  215,86             Monumento a José Félx Rivas
- 
+
+##-J-
 JUDIBANA (Estado Falcón. Distrito Falcón)
 MA-1                                      3,70                 Muelle
 MA-2                                      3,68                 Muelle
@@ -908,11 +921,13 @@ MSA-8                                   4,35                 Muelle
  
 JUSEPIN (Estado Bolívar. Distrito Jusepín)
 H-58                                   149,14             Frente instalaciones de la Creole.
- 
+
+##-K-
 KILOMETRO 70 (Estado Bolívar. Distrito Municipal Caroní)
 BSM-28                                 128,76             Alcabala
 BSM-28-A                             127,88             Oficina Fuerzas Armadas de Cooperación
- 
+
+##-L-
 LA AGUADA (Estado Falcón. Distrito Colina)
 NEM-36                                 41,26               Escuela Estatal #135
  
@@ -941,14 +956,14 @@ CPC-37Bis                             463,35             Parte Agustín Codazzi
 CPC-38                                  459,80             Redoma en la Encrucijada Cagua-San Mateo
 NEM-193P                             459,70             Peaje La Encrucijada
 CPC-38A                               459,80             Silos del B.A.P.
- 
+
 LA ENCRUCIJADA (Estado Falcón. Distrito Falcón)
 NEM-10                                 15,03               Bar La Encrucijada
 NEM-11                                 14,57               Bomba la gasolina
- 
+
 LA ENCRUCIJADA DEL MOITAGRO (Estado Guárico. Distrito Mellado)
 GUA-31                                 215,54             Encrucijada las Mercedes-El Sombrro-Calabozo.
- 
+
 LA ENTRADA (Estado Carabobo. Distrito Valencia)
 NEM-150                               538,23             Puente Girardot
  
@@ -1100,60 +1115,66 @@ LGLC-25                    27,66               Alcantarilla al E. Bar Mirador
 LGLC-26                    6,80                 Puente sobre río Botuco
 LGLC-27                    15,25               Dique en el río Botuco
 LGLC-28                    2,96                 Rompeolas Principal
- 
+
 LOS CORALES (Distrito Federal. Departamento Vargas)
 LGLC-5                                  3,38                 Cruce av. La costanera con av.principal
- 
+
 LOS GUAYOS (Estado Carabobo. Distrito Valencia)
 3CPC-61A                 439,67             Medicatura Rural
 3CPC-61B                  439,80             Plaza Bolívar
 3CPC-61C                 439,61             Plaza Bolívar
 C-84                           439,57             Jefatura Civil
- 
+
 LOS POZOS (Estado Anzoátegui. Distrito Independencia)
 SFB-6                         24,34               Vaquera "Los Belisarios"
- 
+
 LOS RASTROJOS (Estado Lara. Distrito Palavacini)
 F-102                          450,93             Plaza
- 
+
 LOS TAPAROS (Estado Falcón Distrito Acosta)
 NEM-92                     2,14                 Iglesia
- 
+
 LOS TEQUES (Estado Miranda. Distrito Guaicaipuro)
 3CPC-13                    1.168,17                     Plaza Bolívar
 3CPC-13A                 1.167,96                     Plaza Bolívar
 3CPC-13B                  1.174,36                     Plaza Miranda
 3CPC-13C                 1.173,16                     Plaza Guacaipuro
 NEM-216                   1.168,04                     Redoma entrada a la carretera Panamericana
- 
-MACAGUAL (Estado Barinas. Distrito Barinas)
-LGLC-2                                  4,34                 Av. La Playa antes cruce con Av. Alamo
-LGLC-3                                  3,76                 Av La Playa, puente sobre río Macuto
-RT-1                           109,02             Jardín Teleférico. Salida del Fonicular
-RT-2                           108,45             Isla Av. Terminal(Teleférico)
- 
-MACHIQUES (Estado Zulia. Distrito Páez)
-M-61                          101,08             Plaza Bolívar
-Ext. E.                         106,21             Base Machiques. Extremo Este.
-Ext. O.                        134,23             Base Machiques. Oeste.
- 
-MAGDALENO (Estado Aragua. Distrito Zamora)
-VC-23	433,47	Plaza Bolívar
-3VC-23A	433,39	Plaza Bolívar
-3VC-23B	427,85	Grupo Escolar Panaquire
- 
-MAIQUETÍA (Distrito Federal. Departamento Vargas)
-AM                             45,61               Aeropuerto Internacional
-15CG-54                    19,36               Av. Soublette. Pariata
-16CG-54                    20,15               Av. Soublette. Pariata
-17-CG-57                   0,79                 Cuartel de la Guardia Nacional
-18-CG-57                   31,32               Iglesia Barrio Nuevo
-19-CG-57                   63,50               Edificios dependencia del Mac y Mop
-PN                              88,79               Peaje Norte Autopista
- 
-MAPORAL                (Estado Miranda. Distrito Brión)
-NEM-303	28,21	Tanque agua. Escuela Nacional #578
- 
+
+##-M-
+|MACAGUAL|(Estado Barinas. Distrito Barinas)|
+|---|
+|LGLC-2|4,34|Av. La Playa antes cruce con Av. Alamo|
+|LGLC-3|3,76|Av La Playa, puente sobre río Macuto|
+|RT-1|109,02|Jardín Teleférico. Salida del Fonicular|
+|RT-2|108,45|Isla Av. Terminal(Teleférico)|
+
+|MACHIQUES|(Estado Zulia. Distrito Páez)|
+|--|
+|M-61|101,08|Plaza Bolívar|
+|Ext. E.|106,21|Base Machiques. Extremo Este.|
+|Ext. O.|134,23|Base Machiques. Oeste.|
+
+|MAGDALENO|(Estado Aragua. Distrito Zamora)|
+|--|
+|VC-23|433,47|Plaza Bolívar|
+|3VC-23A|433,39|Plaza Bolívar|
+|3VC-23B|427,85|Grupo Escolar Panaquire|
+
+|MAIQUETÍA|(Distrito Federal. Departamento Vargas)|
+|--|
+|AM|45,61|Aeropuerto Internacional|
+|15CG-54|19,36|Av. Soublette. Pariata|
+|16CG-54|20,15|Av. Soublette. Pariata|
+|17-CG-57|0,79|Cuartel de la Guardia Nacional|
+|18-CG-57|31,32|Iglesia Barrio Nuevo|
+|19-CG-57|63,50|Edificios dependencia del Mac y Mop|
+|PN|88,79|Peaje Norte Autopista|
+
+|MAPORAL|(Estado Miranda. Distrito Brión)|
+|--|
+|NEM-303|28,21|Tanque agua. Escuela Nacional #578|
+
 MANTECAL (Estado Apure. Distrito Muñoz)
 AB-38A	79,21	Plaza Bolívar
  
@@ -1173,38 +1194,39 @@ MPA-2                                   53,78               Aeropuerto Grano de 
 MPA-3                                   40,90               Aeropuerto Grano de Oro
 Ext. N.                        38,49               Base Maracaibo. Extremo Norte
 Ext. S.                         27,66               Base Maracaibo. Extremo Sur.
- 
-MARACAY (Estado Aragua. Distrito Girardot)
-CPC-44	445,57	Plaza Bolívar
-3CPC-45	440,45	Entrada al Servicio de Armamento (Min. De la Defensa)
-3CPC-45A	437,20	Entrada Base Aérea "Mariscal Sucre"
-3CPC-42A	439,23	Alcabala vía Turmero
-3CPC-43	441,14	Trébol Peaje
-3CPC-43A	441,51	Puente a Palo Negro
-3CPC-46A	423,85	Puente vía Valencia
-CPC-46	436,33	Entrada Escuela "Mariscal Sucre"
-CMY-1	440,07	Parque Nacional de Maracay.
-CMY.2	445,82	Isla Av. Auditorio. Universidad Central
-CMY-3	439,10	Plaza Mercado Libre
-CMY-4	439,69	Plaza San Juan
-CMY-5	447,15	Isla Av. Junín, fren escuela de aviación.
-CMY-6	446,57	Plaza Páez
-CMY-7	437,61	Parque de Recreación Av. Junín
-CMY-8	434,61	Entrada Compañía Mampa
-CMY-9	434,59	Puente en Calle Carabobo.
-CMY-10	437,13	Puente en calle Páez
-CMY-1A	438,53	Alcantarilla final Parque Nacional
-CMY-1B	438,67	Estación Móvil "Las Delicias"
-IICMY-1	439,26	Cementerio
-IICMY-2	442,81	Cuerpo de Bomberos
-IICMY-3	445,53	Plaza Girardot
-MT-1	444,39	Plazoleta frente al Politécnico
-D-1	452,39	Isla Av. Junín frente campo Aviación Militar
-D-2	446,66	Liceo "Agustín Codazzi"
-NEM-185P	436,69	Peaje "Tapa-Tapa"
-NEM-188P	430,39	Peaje "Palo Negro"
-TIX-1	439,99	Base Maracay. Extremo NO.
- 
+
+|MARACAY (Estado Aragua. Distrito Girardot)
+|--|
+|CPC-44	445,57	Plaza Bolívar
+|3CPC-45	440,45	Entrada al Servicio de Armamento (Min. De la Defensa)
+|3CPC-45A	437,20	Entrada Base Aérea "Mariscal Sucre"
+|3CPC-42A	439,23	Alcabala vía Turmero
+|3CPC-43	441,14	Trébol Peaje
+|3CPC-43A	441,51	Puente a Palo Negro
+|3CPC-46A	423,85	Puente vía Valencia
+|CPC-46	436,33	Entrada Escuela "Mariscal Sucre"
+|CMY-1	440,07	Parque Nacional de Maracay.
+|CMY.2	445,82	Isla Av. Auditorio. Universidad Central
+|CMY-3	439,10	Plaza Mercado Libre
+|CMY-4	439,69	Plaza San Juan
+|CMY-5	447,15	Isla Av. Junín, fren escuela de aviación.
+|CMY-6	446,57	Plaza Páez
+|CMY-7	437,61	Parque de Recreación Av. Junín
+|CMY-8	434,61	Entrada Compañía Mampa
+|CMY-9	434,59	Puente en Calle Carabobo.
+|CMY-10	437,13	Puente en calle Páez
+|CMY-1A	438,53	Alcantarilla final Parque Nacional
+|CMY-1B	438,67	Estación Móvil "Las Delicias"
+|IICMY-1	439,26	Cementerio
+|IICMY-2	442,81	Cuerpo de Bomberos
+|IICMY-3	445,53	Plaza Girardot
+|MT-1	444,39	Plazoleta frente al Politécnico
+|D-1	452,39	Isla Av. Junín frente campo Aviación Militar
+|D-2	446,66	Liceo "Agustín Codazzi"
+|NEM-185P	436,69	Peaje "Tapa-Tapa"
+|NEM-188P	430,39	Peaje "Palo Negro"
+|TIX-1	439,99	Base Maracay. Extremo NO.
+
 MARIARA (Estado Carabobo. Distrito Guacara)
 3CPC-50A                 451,93             Concejo Municipal
 3CPC-50B                  454,45             Plaza Bolívar
@@ -2201,33 +2223,38 @@ Ext. S.                                     178,67             Base La Pascua. E
  
 VILLA BRUZUAL (Estado Portuguesa. Distrito Turén)
 MFB-12                                             126,50             Alcabala de Turén
- 
-VILLA DE CURA (Estado Aragua. Distrito Zamora)
-E-195                                     521,71             Plaza Bolívar
-A-52                                       521,68             Plaza Bolívar
-AGA-9A                                 526,66             Iglesia
-AGA-10                                             520,95             Escuela Teresa Carreño
-VE-195                                              519,07             Hospital
- 
-VILLA LOLA (Estado Bolívar. Distrito Piar)
-BSM-96                                             244,91             Encrucijada Villa Lola
- 
-VILLA DEL ROSARIO (Estado Zulia. Distrito Perijá)
-M-42                                      89,04               Plaza Bolívar
- 
-YARITAGUA (Estado Yaracuy. Distrito Yaritagua)
-MB-49A                                 377,78             Plaza Bolívar
-MB-49B                                 372,07             Plaza J. Peña
-Inos                                         370,50             Estación del Ferrocarril
- 
-YAGUARAPARO (Estado Sucre. Distrito Arismendi)
-NEM-499-C                           12,31               Grupo Escolar J.M. Cajigal
-NEM-499-B                           13,79               Plaza Bolívar
-NEM-499-A                           14,29               Pedestal Estatua Bolívar
- 
+
+|VILLA DE CURA (Estado Aragua. Distrito Zamora) |
+|---|
+|E-195|521,71|Plaza Bolívar|
+|A-52|521,68|Plaza Bolívar|
+|AGA-9A|526,66|Iglesia|
+|AGA-10|520,95|Escuela Teresa Carreño|
+|VE-195|519,07|Hospital|
+
+|VILLA LOLA (Estado Bolívar. Distrito Piar)|
+|---|
+|BSM-96|244,91|Encrucijada Villa Lola|
+
+|VILLA DEL ROSARIO (Estado Zulia. Distrito Perijá)|
+|---|
+|M-42|89,04|Plaza Bolívar|
+
+|YARITAGUA (Estado Yaracuy. Distrito Yaritagua)
+|--|
+|MB-49A|377,78|Plaza Bolívar|
+|MB-49B|372,07|Plaza J. Peña|
+|Inos|370,50|Estación del Ferrocarril|
+
+|YAGUARAPARO (Estado Sucre. Distrito Arismendi)|
+|--|
+|NEM-499-C|12,31|Grupo Escolar J.M. Cajigal|
+|NEM-499-B|13,79|Plaza Bolívar|
+|NEM-499-A|14,29|Pedestal Estatua Bolívar|
+
 YUMA (Estado Carabobo. Distrito Arvelo)
 3VC-18	485,59	Fuente sobre el río Yuma
- 
+
 ZARAZA (Estado Guárico. Distrito Zaraza)
 EBS-27	54,43	Bomba de gasolina Phillips
 EBS-28	73,67	Plaza el Calvario
@@ -2235,5 +2262,5 @@ EBS-28A	74,21	Iglesia
 EBS-28B	63,87	Plaza Bolívar
 EBS-28C	71,35	Liceo Eduardo Méndez
 EBS-28D	55,36	Plaza Páez
- 
-NOTA: Estos datos fueron recopilados por la Sección de Cálculo (Nivelación Geodésica) hasta el mes de Junio de 1969 y están sujetos a ligeras modificaciones debido a renivelaciones o algunas compensaciones de circuitos. 
+
+NOTA: Estos datos fueron recopilados por la Sección de Cálculo (Nivelación Geodésica) hasta el mes de Junio de 1969 y están sujetos a ligeras modificaciones debido a renivelaciones o algunas compensaciones de circuitos.
