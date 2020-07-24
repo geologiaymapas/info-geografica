@@ -1,5 +1,9 @@
 # Paginas Web de Geografia
 
-Terremotos: USGS Earthquakes
+Terremotos: 
+USGS Earthquakes: https://earthquake.usgs.gov/earthquakes/map/
 
-Huracanes: https://nhc.noaa.gov
+Huracanes: 
+Centro de Huracanes NOAA: https://nhc.noaa.gov
+
+Nasa
