@@ -1,7 +1,8 @@
 # Paginas Web de Geo-interés
 
-Terremotos: 
-USGS Earthquakes: https://earthquake.usgs.gov/earthquakes/map/
+USGS: 
+Earthquakes: https://earthquake.usgs.gov/earthquakes/map/
+Centro de Volcanes: https://volcanoes.usgs.gov/index.html 
 
 Huracanes: 
 Centro de Huracanes NOAA: https://nhc.noaa.gov
