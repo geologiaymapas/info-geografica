@@ -1,7 +1,6 @@
 # info-geografica
 Información de bases de datos geográficas (países del mundo, estadísticas, etc)
 
-
 ## Secciones
 
 venezuela-sql
@@ -9,7 +8,6 @@ venezuela-sql
 Base de datos de la división político territorial de Venezuela. 
 Se incluyen estados, ciudades, municipios y parroquias de Venezuela
 La lista de estados segun código ISO 3166-2
-
 
 ## Referencias
 -----------
