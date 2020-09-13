@@ -1,10 +1,10 @@
 # Paginas Web de Geo-interés
 
 ## USGS: 
-Earthquakes: https://earthquake.usgs.gov/earthquakes/map/
+### Earthquakes: https://earthquake.usgs.gov/earthquakes/map/
 Centro de Volcanes: https://volcanoes.usgs.gov/index.html 
 
-Huracanes: 
+### Huracanes: 
 Centro de Huracanes NOAA: https://nhc.noaa.gov
 
 ## Nasa:
