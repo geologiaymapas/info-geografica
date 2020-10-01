@@ -6,7 +6,7 @@ Los directorios se dividiran por tipo de archivo, manuales, codigo e imagenes
 
 ## Manuales
 
-Informacion sobre uso de software especifico
+Informacion sobre uso de software especifico. Incluir solo material de uso libre.
 
 ## Codigo
 
@@ -24,6 +24,17 @@ Archivos de texto separado por comas. Seguir esquema de coma (,) y no punto y co
 
 Archivos json que cumplan con el estandar GeoJSON
 
+
+## JSON
+
+Archivos json que no cumplan con el estandar GeoJSON. Se recomienda incluir la estructura o un archivo de ayuda
+
 ## SQL
 
 Script de SQL para operaciones en bases de datos en T-SQL
+
+## Otros
+
+Formatos de archivo con informacion relevante para el uso en geociencias pero que no pueden entran en las categorias anteriores
+
+Aqui pueden incluirse libros de Jupyter
