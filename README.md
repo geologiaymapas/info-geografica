@@ -38,3 +38,6 @@ La lista de estados segun código ISO 3166-2
 ## Contribuyentes
 
 1. Marco Hernandez (marcoah) (linkedin) (twitter)
+
+## Copyright
+2022 Marco Hernandez
