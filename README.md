@@ -39,5 +39,9 @@ La lista de estados segun código ISO 3166-2
 
 1. Marco Hernandez (marcoah) (linkedin) (twitter)
 
+## Licencia
+
+Este proyecto esta licenciado bajo la licencia MIT - ver la [LICENCIA](LICENSE) archivo para detalles.
+
 ## Copyright
-2022 Marco Hernandez
+2020 2022 Marco Hernandez
