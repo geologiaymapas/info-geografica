@@ -1,0 +1,11 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 3
+    Estado Char (60) Index 1 ;
+    Capital Char (60) ;
+    Codigo Integer ;
+2001-136

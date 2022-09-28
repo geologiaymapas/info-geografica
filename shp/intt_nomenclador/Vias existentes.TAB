@@ -1,0 +1,30 @@
+!table
+!version 650
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 23
+    Nomenclatura Char (20) ;
+    Origen Char (20) ;
+    Tramo Char (20) ;
+    Estado Char (50) ;
+    Descrip Char (150) ;
+    Prog_Inc Float ;
+    Prog_Final Float ;
+    Distancia Decimal (8, 2) ;
+    Pavimento Char (10) ;
+    Calzada Float ;
+    Isla Float ;
+    Hombrillo Float ;
+    Condición_de_la_Vía Char (20) Index 1 ;
+    PDT Float ;
+    PCI Float ;
+    Nombre_de_la_Obra Char (200) ;
+    Municipios Char (100) ;
+    Tipo_de_Proyecto Char (50) ;
+    Estado_de_la_obra Char (50) ;
+    Prioridad Char (20) ;
+    Inversion_en_MM Float ;
+    Plazo_de_Ejecucion Char (50) ;
+    Observaciones Char (150) ;
